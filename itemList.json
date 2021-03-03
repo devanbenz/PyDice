@@ -1,2 +1,16 @@
-
+{
+  "Weapons":[
+    {
+      "fist":[
+        "id":100,
+        "damage":1
+      ]
+    } 
+  ],
+  "Gear":[
+    {
+      "tattered clothing":2
+    }
+  ]
+}
 
